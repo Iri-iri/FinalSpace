@@ -4,11 +4,11 @@ React project that uses the final space api to show characters from the tv serie
 
 # Usage
 
-# Install dependencies
+### Install dependencies
 npm install
-# Run app
+### Run app
 npm start
-# Build app
+### Build app
 npm run build
 
 # Getting Started with Create React App
